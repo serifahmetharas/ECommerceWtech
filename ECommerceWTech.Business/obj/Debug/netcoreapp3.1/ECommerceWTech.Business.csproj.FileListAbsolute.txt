@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\ECommerceWtech\ECommerceWTech.Business\bin\Debug\netcoreapp3.1\ECommerceWTech.Business.deps.json
+C:\Users\ASUS\source\repos\ECommerceWtech\ECommerceWTech.Business\bin\Debug\netcoreapp3.1\ECommerceWTech.Business.dll
+C:\Users\ASUS\source\repos\ECommerceWtech\ECommerceWTech.Business\bin\Debug\netcoreapp3.1\ECommerceWTech.Business.pdb
+C:\Users\ASUS\source\repos\ECommerceWtech\ECommerceWTech.Business\obj\Debug\netcoreapp3.1\ECommerceWTech.Business.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\ECommerceWtech\ECommerceWTech.Business\obj\Debug\netcoreapp3.1\ECommerceWTech.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\ECommerceWtech\ECommerceWTech.Business\obj\Debug\netcoreapp3.1\ECommerceWTech.Business.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\ECommerceWtech\ECommerceWTech.Business\obj\Debug\netcoreapp3.1\ECommerceWTech.Business.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\ECommerceWtech\ECommerceWTech.Business\obj\Debug\netcoreapp3.1\ECommerceWTech.Business.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ECommerceWtech\ECommerceWTech.Business\obj\Debug\netcoreapp3.1\ECommerceWTech.Business.dll
+C:\Users\ASUS\source\repos\ECommerceWtech\ECommerceWTech.Business\obj\Debug\netcoreapp3.1\ECommerceWTech.Business.pdb
