@@ -5003,11 +5003,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ASUS\\source\\repos\\ECommerceWtech\\ECommerceWTech.Data\\ECommerceWTech.Data.csproj",
+      "projectUniqueName": "C:\\Users\\ASUS\\source\\repos\\ECommerceWtech\\ECommerceWtech\\ECommerceWTech.Data\\ECommerceWTech.Data.csproj",
       "projectName": "ECommerceWTech.Data",
-      "projectPath": "C:\\Users\\ASUS\\source\\repos\\ECommerceWtech\\ECommerceWTech.Data\\ECommerceWTech.Data.csproj",
+      "projectPath": "C:\\Users\\ASUS\\source\\repos\\ECommerceWtech\\ECommerceWtech\\ECommerceWTech.Data\\ECommerceWTech.Data.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASUS\\source\\repos\\ECommerceWtech\\ECommerceWTech.Data\\obj\\",
+      "outputPath": "C:\\Users\\ASUS\\source\\repos\\ECommerceWtech\\ECommerceWtech\\ECommerceWTech.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",

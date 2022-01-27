@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QcQnM0D013bH+ar3niZ1u5x0d9Lr8WbP2s6sA+pd/sMb4iNIm1cHOItPXRxvagiJ/7s2IXPCJvTS4WO9m/pyhw==",
+  "dgSpecHash": "QU+CuHKk/jUatP2qLXsZIjrjT0F/JCAreZXJ4iqI4MXbNAkBWy0Dwc5c53as6UHO2vUGasIcIXj7d86dQ3n+bQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ASUS\\source\\repos\\ECommerceWtech\\ECommerceWTech.UI\\ECommerceWTech.UI.csproj",
+  "projectFilePath": "C:\\Users\\ASUS\\source\\repos\\ECommerceWtech\\ECommerceWtech\\ECommerceWTech.UI\\ECommerceWTech.UI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

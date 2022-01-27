@@ -773,11 +773,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ASUS\\source\\repos\\ECommerceWtech\\ECommerceWTech.UI\\ECommerceWTech.UI.csproj",
+      "projectUniqueName": "C:\\Users\\ASUS\\source\\repos\\ECommerceWtech\\ECommerceWtech\\ECommerceWTech.UI\\ECommerceWTech.UI.csproj",
       "projectName": "ECommerceWTech.UI",
-      "projectPath": "C:\\Users\\ASUS\\source\\repos\\ECommerceWtech\\ECommerceWTech.UI\\ECommerceWTech.UI.csproj",
+      "projectPath": "C:\\Users\\ASUS\\source\\repos\\ECommerceWtech\\ECommerceWtech\\ECommerceWTech.UI\\ECommerceWTech.UI.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASUS\\source\\repos\\ECommerceWtech\\ECommerceWTech.UI\\obj\\",
+      "outputPath": "C:\\Users\\ASUS\\source\\repos\\ECommerceWtech\\ECommerceWtech\\ECommerceWTech.UI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
